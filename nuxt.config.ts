@@ -15,8 +15,7 @@ export default defineNuxtConfig({
     'nuxt-gtag',
   ],
   gtag: {
-    // todo make dynamic
-    id: "placeholder"
+    id: "G-98JMJX4K1N"
   },
 
   colorMode: {
@@ -41,7 +40,6 @@ export default defineNuxtConfig({
 
     
     public: {
-      // todo make dynamic
       posthogPublicKey: "placeholder",
       posthogHost: 'https://us.i.posthog.com',
       mdc: {
