@@ -16,7 +16,7 @@ export default defineNuxtConfig({
   ],
   gtag: {
     // todo make dynamic
-    id: 'G-7WT9RR346M'
+    id: "placeholder"
   },
 
   colorMode: {
@@ -42,7 +42,7 @@ export default defineNuxtConfig({
     
     public: {
       // todo make dynamic
-      posthogPublicKey: 'phc_lIMunm30klpLvetBYKUR4tH8VWeIOJsVCLLnHB73AKA',
+      posthogPublicKey: "placeholder",
       posthogHost: 'https://us.i.posthog.com',
       mdc: {
         useNuxtImage: true,
@@ -58,7 +58,7 @@ export default defineNuxtConfig({
   },
   site: {
     // todo make dynamic
-    url: "https://example.com",
+    url: "placeholder.com",
   },
   compatibilityDate: "2024-09-20",
 });
