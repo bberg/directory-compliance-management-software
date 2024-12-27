@@ -15,9 +15,6 @@
             <image:loc>https://placeholder.com/_ipx/w_800/appi-blue-blk-logo.svg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://placeholder.com/_ipx/w_800/6574cff330d4d1e4715d3d81_Logo.png</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://placeholder.com/_ipx/w_800/arena-logo-navbar.png</image:loc>
         </image:image>
         <image:image>
@@ -57,9 +54,6 @@
             <image:loc>https://placeholder.com/_ipx/w_800/Compliance-Management-Software-Compliance-Frameworks-At-Your-Fingertips-Iso-Logo.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://placeholder.com/_ipx/w_800/logo.png</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://placeholder.com/_ipx/w_800/dash-logo-grey-1.png</image:loc>
         </image:image>
         <image:image>
@@ -78,9 +72,6 @@
             <image:loc>https://placeholder.com/_ipx/w_800/650abd6c2f873bf53d0a2cbc_Logo.svg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://placeholder.com/_ipx/w_800/logo-small-reversed-tm.svg</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://placeholder.com/_ipx/w_800/logo-hyperproof-2023.png</image:loc>
         </image:image>
         <image:image>
@@ -90,9 +81,6 @@
             <image:loc>https://placeholder.com/_ipx/w_800/logo-thriveonrisk.svg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://placeholder.com/_ipx/w_800/mco-white-logo.svg</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://placeholder.com/_ipx/w_800/blue-employee-doctors.png</image:loc>
         </image:image>
         <image:image>
@@ -100,9 +88,6 @@
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/w_800/ncontracts%2520logo%2520min.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://placeholder.com/_ipx/w_800/Nimonik-Logo-white.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/w_800/OT-website-logo.svg</image:loc>
@@ -145,12 +130,6 @@
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/w_800/6400ac82429afb0f7b31fa6c_vanta-logo.svg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://placeholder.com/_ipx/w_800/velocityehs-logo.svg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://placeholder.com/_ipx/w_800/logo-white.svg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/w_800/How-to-Choose-a-Compliance-Management-Tool.png</image:loc>
@@ -196,15 +175,6 @@
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/appi-blue-blk-logo.svg</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://placeholder.com/dir/apptega</loc>
-        <image:image>
-            <image:loc>https://placeholder.com/6574cff330d4d1e4715d3d81_Logo.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://placeholder.com/_ipx/_/6574cff330d4d1e4715d3d81_Logo.png</image:loc>
         </image:image>
     </url>
     <url>
@@ -325,15 +295,6 @@
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/dakota_software</loc>
-        <image:image>
-            <image:loc>https://placeholder.com/logo.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://placeholder.com/_ipx/_/logo.png</image:loc>
-        </image:image>
-    </url>
-    <url>
         <loc>https://placeholder.com/dir/dash_solutions</loc>
         <image:image>
             <image:loc>https://placeholder.com/dash-logo-grey-1.png</image:loc>
@@ -388,15 +349,6 @@
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/healthicity</loc>
-        <image:image>
-            <image:loc>https://placeholder.com/logo-small-reversed-tm.svg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://placeholder.com/_ipx/_/logo-small-reversed-tm.svg</image:loc>
-        </image:image>
-    </url>
-    <url>
         <loc>https://placeholder.com/dir/hyperproof</loc>
         <image:image>
             <image:loc>https://placeholder.com/logo-hyperproof-2023.png</image:loc>
@@ -424,15 +376,6 @@
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/mycomplianceoffice</loc>
-        <image:image>
-            <image:loc>https://placeholder.com/mco-white-logo.svg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://placeholder.com/_ipx/_/mco-white-logo.svg</image:loc>
-        </image:image>
-    </url>
-    <url>
         <loc>https://placeholder.com/dir/namely</loc>
         <image:image>
             <image:loc>https://placeholder.com/compliance-2021-hero-image-1600_2x.png</image:loc>
@@ -457,15 +400,6 @@
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/ncontracts%2520logo%2520min.png</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://placeholder.com/dir/nimonik_inc</loc>
-        <image:image>
-            <image:loc>https://placeholder.com/Nimonik-Logo-white.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://placeholder.com/_ipx/_/Nimonik-Logo-white.png</image:loc>
         </image:image>
     </url>
     <url>
@@ -595,24 +529,6 @@
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/velocityehs</loc>
-        <image:image>
-            <image:loc>https://placeholder.com/velocityehs-logo.svg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://placeholder.com/_ipx/_/velocityehs-logo.svg</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>https://placeholder.com/dir/wolfpac_solutions</loc>
-        <image:image>
-            <image:loc>https://placeholder.com/logo-white.svg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://placeholder.com/_ipx/_/logo-white.svg</image:loc>
-        </image:image>
-    </url>
-    <url>
         <loc>https://placeholder.com/dir/zengrc</loc>
         <image:image>
             <image:loc>https://placeholder.com/How-to-Choose-a-Compliance-Management-Tool.png</image:loc>
@@ -625,4 +541,4 @@
         <loc>https://placeholder.com/legal/terms-of-service</loc>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v6.0.0 at 2024-12-27T13:10:25.373Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v6.0.0 at 2024-12-27T13:12:50.901Z -->
