@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/__sitemap__/style.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://placeholder.com/</loc>
+        <loc>https://compliancecatalog.com/</loc>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/hero.jpg</image:loc>
         </image:image>
@@ -136,409 +136,409 @@
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/advertise</loc>
+        <loc>https://compliancecatalog.com/advertise</loc>
     </url>
     <url>
-        <loc>https://placeholder.com/blog</loc>
+        <loc>https://compliancecatalog.com/blog</loc>
     </url>
     <url>
-        <loc>https://placeholder.com/submit</loc>
+        <loc>https://compliancecatalog.com/submit</loc>
     </url>
     <url>
-        <loc>https://placeholder.com/submit-backup</loc>
+        <loc>https://compliancecatalog.com/submit-backup</loc>
     </url>
     <url>
-        <loc>https://placeholder.com/blog/blog-post-1</loc>
+        <loc>https://compliancecatalog.com/blog/blog-post-1</loc>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/360factors</loc>
+        <loc>https://compliancecatalog.com/dir/360factors</loc>
         <image:image>
-            <image:loc>https://placeholder.com/360factor-logo.png</image:loc>
+            <image:loc>https://compliancecatalog.com/360factor-logo.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/360factor-logo.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/american_bank_systems</loc>
+        <loc>https://compliancecatalog.com/dir/american_bank_systems</loc>
         <image:image>
-            <image:loc>https://placeholder.com/ServiceLink-logo-200x150.png</image:loc>
+            <image:loc>https://compliancecatalog.com/ServiceLink-logo-200x150.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/ServiceLink-logo-200x150.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/appinventiv</loc>
+        <loc>https://compliancecatalog.com/dir/appinventiv</loc>
         <image:image>
-            <image:loc>https://placeholder.com/appi-blue-blk-logo.svg</image:loc>
+            <image:loc>https://compliancecatalog.com/appi-blue-blk-logo.svg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/appi-blue-blk-logo.svg</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/arena_solutions</loc>
+        <loc>https://compliancecatalog.com/dir/arena_solutions</loc>
         <image:image>
-            <image:loc>https://placeholder.com/arena-logo-navbar.png</image:loc>
+            <image:loc>https://compliancecatalog.com/arena-logo-navbar.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/arena-logo-navbar.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/asana</loc>
+        <loc>https://compliancecatalog.com/dir/asana</loc>
         <image:image>
-            <image:loc>https://placeholder.com/webimage-2024_08_SEO-regulatory-compliance-tracking.png</image:loc>
+            <image:loc>https://compliancecatalog.com/webimage-2024_08_SEO-regulatory-compliance-tracking.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/webimage-2024_08_SEO-regulatory-compliance-tracking.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/assent_solutions</loc>
+        <loc>https://compliancecatalog.com/dir/assent_solutions</loc>
         <image:image>
-            <image:loc>https://placeholder.com/logo_2.svg</image:loc>
+            <image:loc>https://compliancecatalog.com/logo_2.svg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/logo_2.svg</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/auditboard</loc>
+        <loc>https://compliancecatalog.com/dir/auditboard</loc>
         <image:image>
-            <image:loc>https://placeholder.com/ab-logo-horizontal-blue-black.svg</image:loc>
+            <image:loc>https://compliancecatalog.com/ab-logo-horizontal-blue-black.svg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/ab-logo-horizontal-blue-black.svg</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/camms</loc>
+        <loc>https://compliancecatalog.com/dir/camms</loc>
         <image:image>
-            <image:loc>https://placeholder.com/cropped-cropped-Camms-A-RK-Company-Logo-RGB-175x78.png</image:loc>
+            <image:loc>https://compliancecatalog.com/cropped-cropped-Camms-A-RK-Company-Logo-RGB-175x78.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/cropped-cropped-Camms-A-RK-Company-Logo-RGB-175x78.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/chetu</loc>
+        <loc>https://compliancecatalog.com/dir/chetu</loc>
         <image:image>
-            <image:loc>https://placeholder.com/logo-new-home.png</image:loc>
+            <image:loc>https://compliancecatalog.com/logo-new-home.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/logo-new-home.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/compliancemate</loc>
+        <loc>https://compliancecatalog.com/dir/compliancemate</loc>
         <image:image>
-            <image:loc>https://placeholder.com/CM-logo.png</image:loc>
+            <image:loc>https://compliancecatalog.com/CM-logo.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/CM-logo.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/compliancy_group</loc>
+        <loc>https://compliancecatalog.com/dir/compliancy_group</loc>
         <image:image>
-            <image:loc>https://placeholder.com/Header-Logo-300x46.png</image:loc>
+            <image:loc>https://compliancecatalog.com/Header-Logo-300x46.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/Header-Logo-300x46.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/complinity_technologies</loc>
+        <loc>https://compliancecatalog.com/dir/complinity_technologies</loc>
         <image:image>
-            <image:loc>https://placeholder.com/logo-final.png</image:loc>
+            <image:loc>https://compliancecatalog.com/logo-final.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/logo-final.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/comply</loc>
+        <loc>https://compliancecatalog.com/dir/comply</loc>
         <image:image>
-            <image:loc>https://placeholder.com/comply-logo.svg</image:loc>
+            <image:loc>https://compliancecatalog.com/comply-logo.svg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/comply-logo.svg</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/complyassistant</loc>
+        <loc>https://compliancecatalog.com/dir/complyassistant</loc>
         <image:image>
-            <image:loc>https://placeholder.com/complyassistant-logo-e1cbeb091791a18d398a787cedd00f90ac70349d5cb637d0d418135bbb1ca741.png</image:loc>
+            <image:loc>https://compliancecatalog.com/complyassistant-logo-e1cbeb091791a18d398a787cedd00f90ac70349d5cb637d0d418135bbb1ca741.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/complyassistant-logo-e1cbeb091791a18d398a787cedd00f90ac70349d5cb637d0d418135bbb1ca741.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/contractor_compliance</loc>
+        <loc>https://compliancecatalog.com/dir/contractor_compliance</loc>
         <image:image>
-            <image:loc>https://placeholder.com/60b8ed20133d9dedc3d1ced1_Contractor%20Compliance%20Logo%20Trimmed.svg</image:loc>
+            <image:loc>https://compliancecatalog.com/60b8ed20133d9dedc3d1ced1_Contractor%20Compliance%20Logo%20Trimmed.svg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/60b8ed20133d9dedc3d1ced1_Contractor%2520Compliance%2520Logo%2520Trimmed.svg</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/corporater</loc>
+        <loc>https://compliancecatalog.com/dir/corporater</loc>
         <image:image>
-            <image:loc>https://placeholder.com/Compliance-Management-Software-Compliance-Frameworks-At-Your-Fingertips-Iso-Logo.png</image:loc>
+            <image:loc>https://compliancecatalog.com/Compliance-Management-Software-Compliance-Frameworks-At-Your-Fingertips-Iso-Logo.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/Compliance-Management-Software-Compliance-Frameworks-At-Your-Fingertips-Iso-Logo.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/dash_solutions</loc>
+        <loc>https://compliancecatalog.com/dir/dash_solutions</loc>
         <image:image>
-            <image:loc>https://placeholder.com/dash-logo-grey-1.png</image:loc>
+            <image:loc>https://compliancecatalog.com/dash-logo-grey-1.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/dash-logo-grey-1.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/descartes_visual_compliance</loc>
+        <loc>https://compliancecatalog.com/dir/descartes_visual_compliance</loc>
         <image:image>
-            <image:loc>https://placeholder.com/visual-compliance-share-logo.png</image:loc>
+            <image:loc>https://compliancecatalog.com/visual-compliance-share-logo.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/visual-compliance-share-logo.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/diligent</loc>
+        <loc>https://compliancecatalog.com/dir/diligent</loc>
         <image:image>
-            <image:loc>https://placeholder.com/image</image:loc>
+            <image:loc>https://compliancecatalog.com/image</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/image</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/entuitive_workforce_compliance</loc>
+        <loc>https://compliancecatalog.com/dir/entuitive_workforce_compliance</loc>
         <image:image>
-            <image:loc>https://placeholder.com/post.png</image:loc>
+            <image:loc>https://compliancecatalog.com/post.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/post.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/era_environmental_management_solutions</loc>
+        <loc>https://compliancecatalog.com/dir/era_environmental_management_solutions</loc>
         <image:image>
-            <image:loc>https://placeholder.com/2024_ERA%20official%20logo@3x.png</image:loc>
+            <image:loc>https://compliancecatalog.com/2024_ERA%20official%20logo@3x.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/2024_ERA%2520official%2520logo@3x.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/grand</loc>
+        <loc>https://compliancecatalog.com/dir/grand</loc>
         <image:image>
-            <image:loc>https://placeholder.com/650abd6c2f873bf53d0a2cbc_Logo.svg</image:loc>
+            <image:loc>https://compliancecatalog.com/650abd6c2f873bf53d0a2cbc_Logo.svg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/650abd6c2f873bf53d0a2cbc_Logo.svg</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/hyperproof</loc>
+        <loc>https://compliancecatalog.com/dir/hyperproof</loc>
         <image:image>
-            <image:loc>https://placeholder.com/logo-hyperproof-2023.png</image:loc>
+            <image:loc>https://compliancecatalog.com/logo-hyperproof-2023.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/logo-hyperproof-2023.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/ibm</loc>
+        <loc>https://compliancecatalog.com/dir/ibm</loc>
         <image:image>
-            <image:loc>https://placeholder.com/ibm-8bar-logo-2560x2560.png</image:loc>
+            <image:loc>https://compliancecatalog.com/ibm-8bar-logo-2560x2560.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/ibm-8bar-logo-2560x2560.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/metricstream</loc>
+        <loc>https://compliancecatalog.com/dir/metricstream</loc>
         <image:image>
-            <image:loc>https://placeholder.com/logo-thriveonrisk.svg</image:loc>
+            <image:loc>https://compliancecatalog.com/logo-thriveonrisk.svg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/logo-thriveonrisk.svg</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/namely</loc>
+        <loc>https://compliancecatalog.com/dir/namely</loc>
         <image:image>
-            <image:loc>https://placeholder.com/compliance-2021-hero-image-1600_2x.png</image:loc>
+            <image:loc>https://compliancecatalog.com/compliance-2021-hero-image-1600_2x.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/compliance-2021-hero-image-1600_2x.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/navex</loc>
+        <loc>https://compliancecatalog.com/dir/navex</loc>
         <image:image>
-            <image:loc>https://placeholder.com/blue-employee-doctors.png</image:loc>
+            <image:loc>https://compliancecatalog.com/blue-employee-doctors.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/blue-employee-doctors.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/ncontracts</loc>
+        <loc>https://compliancecatalog.com/dir/ncontracts</loc>
         <image:image>
-            <image:loc>https://placeholder.com/ncontracts%20logo%20min.png</image:loc>
+            <image:loc>https://compliancecatalog.com/ncontracts%20logo%20min.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/ncontracts%2520logo%2520min.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/onetrust</loc>
+        <loc>https://compliancecatalog.com/dir/onetrust</loc>
         <image:image>
-            <image:loc>https://placeholder.com/OT-website-logo.svg</image:loc>
+            <image:loc>https://compliancecatalog.com/OT-website-logo.svg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/OT-website-logo.svg</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/onspring</loc>
+        <loc>https://compliancecatalog.com/dir/onspring</loc>
         <image:image>
-            <image:loc>https://placeholder.com/onspring-logo-small.png</image:loc>
+            <image:loc>https://compliancecatalog.com/onspring-logo-small.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/onspring-logo-small.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/qarma</loc>
+        <loc>https://compliancecatalog.com/dir/qarma</loc>
         <image:image>
-            <image:loc>https://placeholder.com/61117ce333bb57738bf0f58d_qarmaInspect_green_rgb_logo_green_small.svg</image:loc>
+            <image:loc>https://compliancecatalog.com/61117ce333bb57738bf0f58d_qarmaInspect_green_rgb_logo_green_small.svg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/61117ce333bb57738bf0f58d_qarmaInspect_green_rgb_logo_green_small.svg</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/quantivate</loc>
+        <loc>https://compliancecatalog.com/dir/quantivate</loc>
         <image:image>
-            <image:loc>https://placeholder.com/Quantivate-Ncontracts-logo-for-website.svg</image:loc>
+            <image:loc>https://compliancecatalog.com/Quantivate-Ncontracts-logo-for-website.svg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/Quantivate-Ncontracts-logo-for-website.svg</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/quentic</loc>
+        <loc>https://compliancecatalog.com/dir/quentic</loc>
         <image:image>
-            <image:loc>https://placeholder.com/csm_stage_Legal_Compliance_1200x800_8c80167fc5.png</image:loc>
+            <image:loc>https://compliancecatalog.com/csm_stage_Legal_Compliance_1200x800_8c80167fc5.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/csm_stage_Legal_Compliance_1200x800_8c80167fc5.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/rapidfire_tools</loc>
+        <loc>https://compliancecatalog.com/dir/rapidfire_tools</loc>
         <image:image>
-            <image:loc>https://placeholder.com/default_hu51e16f2d78d3ab8bc93fc4c57551f95e_618229_1200x0_resize_box_3.png</image:loc>
+            <image:loc>https://compliancecatalog.com/default_hu51e16f2d78d3ab8bc93fc4c57551f95e_618229_1200x0_resize_box_3.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/default_hu51e16f2d78d3ab8bc93fc4c57551f95e_618229_1200x0_resize_box_3.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/resolver</loc>
+        <loc>https://compliancecatalog.com/dir/resolver</loc>
         <image:image>
-            <image:loc>https://placeholder.com/logo__haventree-bank.png</image:loc>
+            <image:loc>https://compliancecatalog.com/logo__haventree-bank.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/logo__haventree-bank.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/solarwinds</loc>
+        <loc>https://compliancecatalog.com/dir/solarwinds</loc>
         <image:image>
-            <image:loc>https://placeholder.com/SW_Logo_Web_Orange.svg</image:loc>
+            <image:loc>https://compliancecatalog.com/SW_Logo_Web_Orange.svg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/SW_Logo_Web_Orange.svg</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/sphera</loc>
+        <loc>https://compliancecatalog.com/dir/sphera</loc>
         <image:image>
-            <image:loc>https://placeholder.com/sphera-logo.png</image:loc>
+            <image:loc>https://compliancecatalog.com/sphera-logo.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/sphera-logo.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/starcompliance</loc>
+        <loc>https://compliancecatalog.com/dir/starcompliance</loc>
         <image:image>
-            <image:loc>https://placeholder.com/Compliance-Management-and-Monitoring-Tools-scaled.png</image:loc>
+            <image:loc>https://compliancecatalog.com/Compliance-Management-and-Monitoring-Tools-scaled.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/Compliance-Management-and-Monitoring-Tools-scaled.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/thomson_reuters</loc>
+        <loc>https://compliancecatalog.com/dir/thomson_reuters</loc>
         <image:image>
-            <image:loc>https://placeholder.com/image.png</image:loc>
+            <image:loc>https://compliancecatalog.com/image.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/image.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/ul_solutions</loc>
+        <loc>https://compliancecatalog.com/dir/ul_solutions</loc>
         <image:image>
-            <image:loc>https://placeholder.com/CS276787_GCM_Offering_Page-header_4.17b.png</image:loc>
+            <image:loc>https://compliancecatalog.com/CS276787_GCM_Offering_Page-header_4.17b.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/CS276787_GCM_Offering_Page-header_4.17b.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/vanta</loc>
+        <loc>https://compliancecatalog.com/dir/vanta</loc>
         <image:image>
-            <image:loc>https://placeholder.com/6400ac82429afb0f7b31fa6c_vanta-logo.svg</image:loc>
+            <image:loc>https://compliancecatalog.com/6400ac82429afb0f7b31fa6c_vanta-logo.svg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/6400ac82429afb0f7b31fa6c_vanta-logo.svg</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/vcomply</loc>
+        <loc>https://compliancecatalog.com/dir/vcomply</loc>
         <image:image>
-            <image:loc>https://placeholder.com/vcomply-logo-138x34-1.svg</image:loc>
+            <image:loc>https://compliancecatalog.com/vcomply-logo-138x34-1.svg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/vcomply-logo-138x34-1.svg</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/dir/zengrc</loc>
+        <loc>https://compliancecatalog.com/dir/zengrc</loc>
         <image:image>
-            <image:loc>https://placeholder.com/How-to-Choose-a-Compliance-Management-Tool.png</image:loc>
+            <image:loc>https://compliancecatalog.com/How-to-Choose-a-Compliance-Management-Tool.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://placeholder.com/_ipx/_/How-to-Choose-a-Compliance-Management-Tool.png</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>https://placeholder.com/legal/terms-of-service</loc>
+        <loc>https://compliancecatalog.com/legal/terms-of-service</loc>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v6.0.0 at 2024-12-27T18:46:11.327Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v6.0.0 at 2024-12-27T18:55:23.450Z -->

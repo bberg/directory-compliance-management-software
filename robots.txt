@@ -2,5 +2,5 @@
 User-agent: *
 Disallow: /legal/privacy-policy
 
-Sitemap: https://placeholder.com/sitemap.xml
+Sitemap: https://compliancecatalog.com/sitemap.xml
 # END nuxt-robots
