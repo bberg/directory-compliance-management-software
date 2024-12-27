@@ -2,8 +2,7 @@ import type Emoji from "./components/OgImage/Emoji.vue";
 
 export default defineAppConfig({
   general: {
-    // todo make dynamic
-    title: "Compliance Management Software Directory",
+    title: "Compliance Catalog",
     logo: "/logo.png",
     // iconLogo: "fluent-emoji-flat:leaf-fluttering-in-wind",
   },
@@ -13,7 +12,7 @@ export default defineAppConfig({
     // url is necessary for correct function of seo module.
     name: "Compliance Management Software Directory",
     description: "Directory of Compliance Management Software Providers",
-    url: "placeholder.com",
+    url: "compliancecatalog.com",
     favicon: {
       image: "",
       emoji: "",
